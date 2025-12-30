@@ -39,6 +39,6 @@ Projeto desenvolvido por **Diogo José Morais Netto**, desenvolvedor **Front-End
 - Projeto real em produção
 
 # Clone o repositório
-git clone https://github.com/Diogo-netto/YLOUT.git 
+git clone https://diogo-netto.github.io/WebSite-YLOUT/
 
 
