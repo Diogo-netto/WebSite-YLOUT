@@ -1,40 +1,41 @@
-Visão Geral do Projeto
+# YLOUT | Divulgação de Canal no YouTube
 
-Este site foi desenvolvido para divulgar e fortalecer a presença digital do canal YLOUT, focado em conteúdos do jogo Point Blank, com ênfase em gameplay de Sniper, AWP e Rifles. O projeto funciona como uma landing page institucional do canal, centralizando informações, vídeos, identidade visual e chamadas para inscrição no YouTube.
+## 📸 Preview do Projeto
+![Preview do Projeto](assets/foto.png.png)
 
-O site está hospedado no GitHub Pages, sendo acessado por meio de um link público compartilhado em vídeos do YouTube e outras redes sociais.
+Projeto desenvolvido para **divulgação de um canal no YouTube**, com foco em apresentação visual clara, chamada para ação e identidade digital forte.  
+O site já está **em uso real por um cliente**, cumprindo o objetivo de fortalecer a presença online do canal.
+
+---
+
+## 🎯 Objetivo do Projeto
+Criar uma página simples, moderna e responsiva para:
+- Apresentar o canal no YouTube  
+- Direcionar o público para os vídeos  
+- Fortalecer a identidade visual do criador de conteúdo  
+- Facilitar o acesso em dispositivos móveis  
+
+---
+
+## 👨‍💻 Desenvolvedor
+Projeto desenvolvido por **Diogo José Morais Netto**, desenvolvedor **Front-End**, com foco em criação de sites, landing pages e interfaces responsivas voltadas para clientes reais.
+
+---
+
+## 🚀 Tecnologias utilizadas
+- HTML5  
+- CSS3  
+- JavaScript  
+- Bootstrap  
+- Tailwind CSS  
+- Git e GitHub  
+
+---
+
+## 📱 Características do Projeto
+- Layout responsivo  
+- Design limpo e direto  
+- Foco em experiência do usuário  
+- Projeto real em produção  
 
 
-
-
-Objetivo do Site
-
-Apresentar o canal YLOUT de forma profissional
-
-Reforçar a identidade gamer focada em sniper e precisão
-
-Direcionar visitantes para o canal no YouTube
-
-Destacar vídeos, shorts e conteúdos recentes
-
-Servir como base para crescimento futuro do canal
-
-
-
-Tecnologias Utilizadas
-
-O site foi construído utilizando tecnologias front-end modernas, priorizando performance, visual impactante e responsividade:
-
-HTML5 – Estrutura semântica
-
-CSS3 / Tailwind CSS – Estilização responsiva e moderna
-
-JavaScript – Interações básicas e navegação
-
-Font Awesome / Ícones SVG – Ícones visuais
-
-Google Fonts – Tipografia personalizada
-
-GitHub Pages – Hospedagem do site
-
-Não há back-end neste estágio.
