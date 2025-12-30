@@ -28,7 +28,8 @@ Projeto desenvolvido por **Diogo José Morais Netto**, desenvolvedor **Front-End
 - JavaScript  
 - Bootstrap  
 - Tailwind CSS  
-- Git e GitHub  
+- Git e GitHub
+- javascript
 
 ---
 
