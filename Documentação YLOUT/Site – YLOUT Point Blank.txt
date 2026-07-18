@@ -1,0 +1,172 @@
+# Site – YLOUT | Point Blank – Sniper
+
+## 1. Visão Geral do Projeto
+
+Este site foi desenvolvido para divulgar e fortalecer a presença digital do canal **YLOUT**, focado em conteúdos do jogo **Point Blank**, com ênfase em gameplay de **Sniper, AWP e Rifles**. O projeto funciona como uma **landing page institucional do canal**, centralizando informações, vídeos, identidade visual e chamadas para inscrição no YouTube.
+
+O site está hospedado no **GitHub Pages**, sendo acessado por meio de um link público compartilhado em vídeos do YouTube e outras redes sociais.
+
+---
+
+## 2. Objetivo do Site
+
+* Apresentar o canal YLOUT de forma profissional
+* Reforçar a identidade gamer focada em sniper e precisão
+* Direcionar visitantes para o canal no YouTube
+* Destacar vídeos, shorts e conteúdos recentes
+* Servir como base para crescimento futuro do canal
+
+---
+
+## 3. Público-Alvo
+
+* Jogadores de Point Blank
+* Fãs de gameplay sniper, AWP e rifle
+* Comunidade gamer competitiva
+* Pessoas interessadas em dicas, highlights e clutches
+
+---
+
+## 4. Tecnologias Utilizadas
+
+O site foi construído utilizando tecnologias front-end modernas, priorizando performance, visual impactante e responsividade:
+
+* **HTML5** – Estrutura semântica
+* **CSS3 / Tailwind CSS** – Estilização responsiva e moderna
+* **JavaScript** – Interações básicas e navegação
+* **Font Awesome / Ícones SVG** – Ícones visuais
+* **Google Fonts** – Tipografia personalizada
+* **GitHub Pages** – Hospedagem do site
+
+Não há back-end neste estágio.
+
+---
+
+## 5. Estrutura do Site
+
+### 5.1 Cabeçalho (Header / Navbar)
+
+* Logotipo do canal (PB – Point Blank)
+* Nome do canal: **YLOUT**
+* Menu de navegação com links para:
+
+  * Vídeos
+  * Sobre
+  * Contato
+* Botão de CTA destacado: **Inscreva-se**
+
+A navegação é fixa no topo, garantindo fácil acesso em qualquer parte do site.
+
+---
+
+### 5.2 Seção Hero (Destaque Inicial)
+
+Esta é a área principal do site, responsável pelo maior impacto visual:
+
+* Título principal:
+  **“Sniper, AWP e rifle no limite da precisão.”**
+* Texto explicativo apresentando o estilo de gameplay
+* Destaque para o foco em CAMP, precisão e paciência
+* Chamadas para ação:
+
+  * **Assistir agora**
+  * **Ver Shorts de sniper**
+
+O layout utiliza gradientes escuros com tons de vermelho, reforçando o clima gamer e competitivo.
+
+---
+
+### 5.3 Destaque de Vídeo
+
+* Embed de vídeo do YouTube diretamente no site
+* Exibição de informações como:
+
+  * Título do vídeo
+  * Número de visualizações
+  * Tempo desde a publicação
+
+Essa seção aumenta o tempo de permanência do usuário no site e direciona tráfego para o YouTube.
+
+---
+
+### 5.4 Indicadores do Canal
+
+* Quantidade de inscritos
+* Descrição da comunidade
+* Destaque para vídeos diários
+
+Esses dados reforçam autoridade e constância do canal.
+
+---
+
+## 6. Responsividade
+
+O site foi desenvolvido com foco em **design responsivo**, garantindo:
+
+* Boa visualização em celulares
+* Ajustes automáticos de layout
+* Botões grandes e acessíveis
+* Texto legível em qualquer resolução
+
+---
+
+## 7. Hospedagem e Publicação
+
+* Código versionado no **GitHub**
+* Site publicado via **GitHub Pages**
+* Repositório pode ser público para visualização
+* Link do site divulgado nos vídeos do YouTube
+
+Essa estratégia permite divulgação sem custos iniciais.
+
+---
+
+## 8. Pontos Fortes do Projeto
+
+* Visual profissional e gamer
+* Mensagem clara sobre o conteúdo do canal
+* Call to Action bem definido
+* Performance rápida
+* Código simples e fácil de manter
+
+---
+
+## 9. Possíveis Melhorias Futuras (Back-End)
+
+Para futuras evoluções do projeto, é possível implementar:
+
+* Painel administrativo para atualizar vídeos
+* Integração com API do YouTube (inscritos em tempo real)
+* Sistema de comentários próprios
+* Cadastro de fãs ou membros
+* Analytics personalizado
+
+Tecnologias possíveis:
+
+* Node.js
+* PHP
+* Firebase
+* MongoDB
+
+---
+
+## 10. Estratégias de Marketing Digital
+
+Para impulsionar o site e o canal:
+
+* SEO focado em Point Blank e Sniper
+* Compartilhamento do site em descrições dos vídeos
+* Link na bio do Instagram
+* Shorts e Reels direcionando para o site
+* Criação de página de captura no futuro
+
+---
+
+## 11. Considerações Finais
+
+Este site cumpre muito bem seu papel como **base digital do canal YLOUT**, transmitindo profissionalismo, identidade gamer e foco em precisão. Ele está pronto para crescer junto com o canal, tanto em conteúdo quanto em estrutura técnica.
+
+---
+
+**Desenvolvimento Front-End:**
+Diogo José Morais Netto – Dev Front-End
